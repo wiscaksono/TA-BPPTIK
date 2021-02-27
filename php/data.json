@@ -1,0 +1,34 @@
+[
+    {
+        "maskapai": "Adam Air",
+        "bandaraAsal": "Soekarno Hatta (CGK)",
+        "bandaraTujuan": "Sultan Iskandar Muda (BTJ)",
+        "hargaTiket": "10000",
+        "pajak": 120000,
+        "hargaTotal": 130000
+    },
+    {
+        "maskapai": "Sriwijaya Air",
+        "bandaraAsal": "Abdul Rachman Saleh (MLG)",
+        "bandaraTujuan": "Sultan Iskandar Muda (BTJ)",
+        "hargaTiket": "90000",
+        "pajak": 110000,
+        "hargaTotal": 200000
+    },
+    {
+        "maskapai": "Sriwijaya Air",
+        "bandaraAsal": "Soekarno Hatta (CGK)",
+        "bandaraTujuan": "Ngurah Rai (DPS)",
+        "hargaTiket": "30000",
+        "pajak": 130000,
+        "hargaTotal": 160000
+    },
+    {
+        "maskapai": "Lion AIr",
+        "bandaraAsal": "Juanda (SUB)",
+        "bandaraTujuan": "Hassanudin (UPG)",
+        "hargaTiket": "80000",
+        "pajak": 110000,
+        "hargaTotal": 190000
+    }
+]

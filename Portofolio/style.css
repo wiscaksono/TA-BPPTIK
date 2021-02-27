@@ -1,0 +1,21 @@
+body {
+  min-height: 2000px;
+  margin-bottom: 2000px;
+}
+
+.jumbotron {
+  /* padding: 2rem; */
+  padding-top: 4rem;
+  background-color: #c0f1e1;
+}
+
+#projects {
+  /* padding: 2rem; */
+  padding-top: 4rem;
+  background-color: #c0f1e1;
+}
+
+.custom-button {
+  color: white;
+  background-color: #54b192;
+}
